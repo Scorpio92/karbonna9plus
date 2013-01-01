@@ -25,11 +25,11 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/telephony.mk)
 # Inherit from skate device
-$(call inherit-product, device/samsung/trebon/device.mk)
+$(call inherit-product, device/karbonn/a9plus/device.mk)
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := samsung_trebon
-PRODUCT_DEVICE := trebon
-PRODUCT_BRAND := Samsung
-PRODUCT_MANUFACTURER := Samsung
-PRODUCT_MODEL := GT-S7500
+PRODUCT_NAME := karbonn_a9plus
+PRODUCT_DEVICE := a9plus
+PRODUCT_BRAND := Karbonn
+PRODUCT_MANUFACTURER := Karbonn
+PRODUCT_MODEL := A9+
