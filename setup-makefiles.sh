@@ -14,8 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-DEVICE=trebon
-MANUFACTURER=samsung
+DEVICE=a9plus
+MANUFACTURER=karbonn
 
 mkdir -p ../../../vendor/$MANUFACTURER/$DEVICE
 

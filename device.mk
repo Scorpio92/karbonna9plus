@@ -263,6 +263,8 @@ PRODUCT_COPY_FILES += \
     device/karbonn/a9plus/prebuilt/system/etc/init.qcom.efs.sync.sh:system/etc/init.qcom.efs.sync.sh \
     device/karbonn/a9plus/prebuilt/system/etc/init.qcom.rendering.sh:system/etc/init.qcom.rendering.sh \
     device/karbonn/a9plus/prebuilt/system/etc/init.qcom.thermald_conf.sh:system/etc/init.qcom.thermald_conf.sh \
+    device/karbonn/a9plus/prebuilt/system/etc/OperatorPolicy.xml:system/etc/OperatorPolicy.xml \
+    device/karbonn/a9plus/prebuilt/system/etc/UserPolicy.xml:system/etc/UserPolicy.xml \
     device/karbonn/a9plus/prebuilt/system/etc/thermald.conf:system/etc/thermald.conf 
 
 # For userdebug builds
