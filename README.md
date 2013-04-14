@@ -1,1 +1,1 @@
-Device tree for Karbonn A9+
+   Device tree for karbonn A9+
